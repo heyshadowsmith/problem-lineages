@@ -1,16 +1,21 @@
 ---
-title: API Test Post
+title: Updated API Test Post
 date: 2025-06-04T12:00:00Z
 tags:
   - api
   - test
+  - updated
 published: true
 ---
 
-# API Test Post
+# Updated API Test Post
 
-This post was created via the API using curl.
+This post was updated via the API using curl.
 
-## Testing
+## Testing Update
 
-The API is working correctly!
+The API update functionality is working correctly!
+
+## New Section
+
+This is a new section added during the update.
